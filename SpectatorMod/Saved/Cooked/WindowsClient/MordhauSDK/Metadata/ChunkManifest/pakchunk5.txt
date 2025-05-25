@@ -1,0 +1,3 @@
+F:\MORDHAUEditor\Mordhau\Mods\SpectatorMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\StarterContent\Architecture\Floor_400x400
+F:\MORDHAUEditor\Mordhau\Mods\SpectatorMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\StarterContent\Shapes\Shape_Plane
+F:\MORDHAUEditor\Mordhau\Mods\SpectatorMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\StarterContent\Shapes\Shape_Wedge_B

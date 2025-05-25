@@ -1,0 +1,5 @@
+F:\MORDHAUEditor\Mordhau\Mods\SpectatorMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\SpectatorMod\Content\BP_SpecOverlay
+F:\MORDHAUEditor\Mordhau\Mods\SpectatorMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\SpectatorMod\Content\SG_SpecOverlay
+F:\MORDHAUEditor\Mordhau\Mods\SpectatorMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\SpectatorMod\Content\TopBanner
+F:\MORDHAUEditor\Mordhau\Mods\SpectatorMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\SpectatorMod\Content\W_SidebarPlayerEntry
+F:\MORDHAUEditor\Mordhau\Mods\SpectatorMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\SpectatorMod\Content\W_SpecOverlay
